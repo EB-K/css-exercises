@@ -11,3 +11,8 @@
 .size24 {
     font-size: 24px;
 }
+
+#four {
+    background-color: rgb(32, 223, 111);
+    font-weight: bold;
+}
